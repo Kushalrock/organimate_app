@@ -54,3 +54,15 @@ Additionally, we are in the process of developing a risk diversity plan. Althoug
 We appreciate your support and feedback as we continue to improve and expand our platform to better serve the farming community. Feel free to reach out to us for any inquiries or assistance.
 
 Happy farming with Organimate! 🌱🚜
+
+## Instructions
+
+Install the required tools such as Android Studio, Dart, and Flutter 
+
+Clone our repository
+
+Run `flutter pub get` in the main project directory to fetch all the required packages
+
+Connect a device
+
+Use `flutter run`
